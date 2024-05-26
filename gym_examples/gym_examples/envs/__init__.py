@@ -1,0 +1,1 @@
+from gym_examples.envs.footy_free_kick import FootyFreeKickEnv
